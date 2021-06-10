@@ -13,7 +13,10 @@ For myself , to study and master Python^_^V
 
 출처 : 책 [이것이 코딩 테스트다](https://book.naver.com/bookdb/book_detail.nhn?bid=16439154)
 
-알고리즘 연습장 : 
+# 알고리즘 연습장 
+
+- [알고리즘문제리스트](https://docs.google.com/spreadsheets/d/1UB9dwL_Q6bCnn__ZsM_aufcvay4HXQ4oZSVXTof78oo/edit?usp=sharing)
+
 * 1-98 [codeup98제](https://codeup.kr/problemset.php?page=21)
 * 99- [프로그래머스 문제](https://programmers.co.kr/learn/challenges) (진행중)
 
