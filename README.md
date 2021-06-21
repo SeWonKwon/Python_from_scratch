@@ -19,8 +19,9 @@ For myself , to study and master Python^_^V
 - 
 ## 출처 
 * 책 [이것이 코딩 테스트다](https://book.naver.com/bookdb/book_detail.nhn?bid=16439154)
-* 1-98 [codeup98제](https://codeup.kr/problemset.php?page=21)
-* 99- [프로그래머스 문제](https://programmers.co.kr/learn/challenges) (진행중)
+* 1  -  98 [codeup98제](https://codeup.kr/problemset.php?page=21)
+* 99 - 147 [프로그래머스 문제](https://programmers.co.kr/learn/challenges) Level 1
+* 148- 187 [프로그래머스 문제](https://programmers.co.kr/learn/challenges) Level 2
 
 
 # Python_Basic_L
