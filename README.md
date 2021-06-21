@@ -20,3 +20,21 @@ For myself , to study and master Python^_^V
 * 1-98 [codeup98제](https://codeup.kr/problemset.php?page=21)
 * 99- [프로그래머스 문제](https://programmers.co.kr/learn/challenges) (진행중)
 
+
+# Python_Basic_L
+1. L01_Google_Colab,_Jupyter_Notebook,_Markdown
+2. L02_Python
+3.
+
+
+
+# Colab, Jupyter, Markdown
+Colab, Jupyter, Markdown 의 팁을 모아 놓은 곳입니다. 
+
+1. 001_Google Colab .ipynb
+2. 002_JupyterNoteBook.ipynb
+3. 003_Shell commands.ipynb
+4. 004_Shell commands2.ipynb
+5. 005_Markdown MD 마크다운 문법 .ipynb
+
+
