@@ -25,9 +25,9 @@ For myself , to study and master Python^_^V
 
 
 # Python_Basic_L
-1. L01_Google_Colab,_Jupyter_Notebook,_Markdown
-2. L02_Python
-3.
+1. L01_Google_Colab,\_Jupyter_Notebook,\_Markdown
+2. L02_Python_Basic
+3. L03_Python_Variables, Dtypes, Operators
 
 
 
