@@ -33,7 +33,7 @@ For myself , to study and master Python^_^V
 
 
 # Python_Basic_L
-5. 자료형_정리 : 자료형과 관련 된 내용을 정리
+1. 자료형_정리 : 자료형과 관련 된 내용을 정리
 1. L01_Google_Colab,\_Jupyter_Notebook,\_Markdown
 2. L02_Python_Basic
 3. L03_Python_Variables, Dtypes, Operators
