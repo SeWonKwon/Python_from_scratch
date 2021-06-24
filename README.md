@@ -8,6 +8,19 @@ For myself , to study and master Python^_^V
 
 ## Algorithm 정리 : 매일 매일 관련 내용을 정리 하고 있습니다. 
 
+1. 001_print_format
+2. 002_input()
+3. 003_convert_number
+4. 004_Unicode_ord_chr
+5. 005_Greedy
+6. 006_rank
+7. 007_betwise_and_numberic_convert
+8. 008_Implementation(구현)
+9. 009_Recursive_function
+10. 010_lpad_rpad
+11. 011_약수, 배수, 소수
+
+
 ## 알고리즘 연습장 : '가랑비에 옷 젖는다' 하루에 한문제!
 
 - [알고리즘문제리스트](https://docs.google.com/spreadsheets/d/1UB9dwL_Q6bCnn__ZsM_aufcvay4HXQ4oZSVXTof78oo/edit?usp=sharing) : 업데이트 중  🕣
