@@ -38,6 +38,7 @@ For myself , to study and master Python^_^V
 2. L02_Python_Basic
 3. L03_Python_Variables, Dtypes, Operators
 4. L04_Python_String
+5. L05_Python_List, Tuple, Dictionary
 
 
 
