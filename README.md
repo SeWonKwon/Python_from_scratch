@@ -41,6 +41,12 @@ For myself , to study and master Python^_^V
 5. L05_Python_List, Tuple, Dictionary
 6. L06_Python_Condition, Loops and Control Statements, Error
 7. L07_Python_input & output
+8. L08_Python_function
+
+### 출처
+[파이썬 프로그래밍3.0]()
+[이수안컴퓨터](https://www.youtube.com/playlist?list=PL7ZVZgsnLwEEdhCYInwxRpj1Rc4EGmCUc)
+
 
 
 
