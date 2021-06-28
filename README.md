@@ -42,6 +42,7 @@ For myself , to study and master Python^_^V
 6. L06_Python_Condition, Loops and Control Statements, Error
 7. L07_Python_input & output
 8. L08_Python_function
+9. L09_Python_Object & Class
 
 ### 출처
 [파이썬 프로그래밍3.0]()
