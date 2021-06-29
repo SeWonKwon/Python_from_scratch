@@ -43,9 +43,10 @@ For myself , to study and master Python^_^V
 7. L07_Python_input & output
 8. L08_Python_function
 9. L09_Python_Object & Class
+10. L10_Python_Module & Packages
 
 ### 출처
-[파이썬 프로그래밍3.0]()
+[이강성_파이썬 3 바이블](http://book.interpark.com/product/BookDisplay.do?_method=detail&sc.prdNo=213143577&gclid=Cj0KCQjw5uWGBhCTARIsAL70sLLmqW-p1uMvmIx_3Xt9itNXFgdbn2qxLMQXxnmrbpXpDVRWKcRZBK4aAvy4EALw_wcB)
 [이수안컴퓨터](https://www.youtube.com/playlist?list=PL7ZVZgsnLwEEdhCYInwxRpj1Rc4EGmCUc)
 
 
