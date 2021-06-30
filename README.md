@@ -6,8 +6,8 @@ For myself , to study and master Python^_^V
 
 # Python_Algorithm
 
-Not just to solve Algorithm problem,
-to code [**Pythonic**] code.
+Not just to solve Algorithm problem,<br>
+to code **Pythonic** code.
 
 ```
 The Zen of Python, by Tim Peters
