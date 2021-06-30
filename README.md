@@ -32,7 +32,7 @@ If the implementation is hard to explain, it's a bad idea.
 If the implementation is easy to explain, it may be a good idea.
 Namespaces are one honking great idea -- let's do more of those!
 ```
-
+출처: `import this`
 
 
 ## Algorithm 정리 : 매일 매일 관련 내용을 정리 하고 있습니다. 
