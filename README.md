@@ -75,7 +75,7 @@ Namespaces are one honking great idea -- let's do more of those!
 10. L10_Python_Module & Packages
 
 ### 출처
-* [이강성_파이썬 3 바이블](http://book.interpark.com/product/BookDisplay.do?_method=detail&sc.prdNo=213143577&gclid=Cj0KCQjw5uWGBhCTARIsAL70sLLmqW-p1uMvmIx_3Xt9itNXFgdbn2qxLMQXxnmrbpXpDVRWKcRZBK4aAvy4EALw_wcB)
+* [파이썬 3 바이블, 이강성](http://book.interpark.com/product/BookDisplay.do?_method=detail&sc.prdNo=213143577&gclid=Cj0KCQjw5uWGBhCTARIsAL70sLLmqW-p1uMvmIx_3Xt9itNXFgdbn2qxLMQXxnmrbpXpDVRWKcRZBK4aAvy4EALw_wcB)
 * [이수안컴퓨터](https://www.youtube.com/playlist?list=PL7ZVZgsnLwEEdhCYInwxRpj1Rc4EGmCUc)
 
 
