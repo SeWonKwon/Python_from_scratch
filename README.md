@@ -89,5 +89,6 @@ Colab, Jupyter, Markdown 의 팁을 모아 놓은 곳입니다.
 3. 003_Shell commands.ipynb
 4. 004_Shell commands2.ipynb
 5. 005_Markdown MD 마크다운 문법 .ipynb
+6. 006_VSCODE 기본 셋팅법
 
 
