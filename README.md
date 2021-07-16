@@ -9,7 +9,7 @@ For myself , to study and master Python^_^V
 Not just to solve Algorithm problem,<br>
 to code **Pythonic** code.
 
-```
+```python
 The Zen of Python, by Tim Peters
 
 Beautiful is better than ugly.
