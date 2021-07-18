@@ -3,6 +3,10 @@ Python from scratch
 
 For myself , to study and master Python^_^V
 
+* 구성
+  - Python_Basic_L : Pyhon 언어의 내용을 정리
+  - Colab, Jupyter, Markdown : Idle tool setting 및 활용
+  - Python Algorithm : Python 을 활용한 알고리즘 정리 및 심화 문법, 매일매일 알고리즘 연습장
 
 # Python_Algorithm
 
