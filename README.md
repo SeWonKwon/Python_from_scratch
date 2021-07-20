@@ -1,18 +1,22 @@
 # Python_from_scratch
-Python from scratch
+For myself and sharing , to study and master Python^_^V
 
-For myself , to study and master Python^_^V
 
-* 구성
-  - Python_Basic_L : Pyhon 언어의 내용을 정리
-  - Colab, Jupyter, Markdown : Idle tool setting 및 활용
-  - Python Algorithm : Python 을 활용한 알고리즘 정리 및 심화 문법, 매일매일 알고리즘 연습장
+파이썬은 파이썬스럽게 라는 말을 이해하는데 많은 시간이 걸렸고, 오늘도 매일매일 느끼고 있습니다. <br>
+제 2 외국어로서 영어를 공부 할때, 매일매일 사용하는 숙달과 문법과 어법의 세부적인 내용의 병행해야지만, <br>
+영어를 영어 스럽게 사용할 수 있었던 경험했습니다. <br>
+프로그램 언어도 이와 다르지 않을 것이라고 생각합니다. <br> 
+매일매일 치열하게 사용하고, 항상 기초를 복습하고, 심화된 내용을 하나하나 정복해 나가고 있습니다. 
 
-# Python_Algorithm
+아래와 같이 구성하여, 정리하고 있습니다. 
+각 폴더 안의 폴더는 책이나, 강의를 정리 한것이고 최상위에 노출된 파일이 통합해서 정리 해놓은 것입니다. 
+[알고리즘문제리스트](https://docs.google.com/spreadsheets/d/1UB9dwL_Q6bCnn__ZsM_aufcvay4HXQ4oZSVXTof78oo/edit?usp=sharing)는 제가 꾸준히 풀고 업데이트 중에 있으니, 기초부터 차근 차근 해보시기를 추천 드립니다. 
 
-Not just to solve Algorithm problem,<br>
-to code **Pythonic** code.
-
+## 구성
+  - Python_Basic : Pyhon 언어의 내용을 정리, 관련 책과 강좌 정리
+  - Python Algorithm : Python 을 활용한 알고리즘 정리 및 심화 문법, 매일매일 알고리즘 연습장(Everyday Algo Exercise)
+  - PythonEco_ML : MachineLearning Eco system 관련 내용을 정리, Idle tool 사용법 및 셋팅부터 키보드 셋팅까지
+  
 ```python
 The Zen of Python, by Tim Peters
 
@@ -37,6 +41,30 @@ If the implementation is easy to explain, it may be a good idea.
 Namespaces are one honking great idea -- let's do more of those!
 ```
 출처: `import this`
+
+
+# Python_Basic
+
+## Python_Basic_L
+* 강좌 정리 
+1. 자료형_정리 : 자료형과 관련 된 내용을 정리
+1. L01_Google_Colab,\_Jupyter_Notebook,\_Markdown
+2. L02_Python_Basic
+3. L03_Python_Variables, Dtypes, Operators
+4. L04_Python_String
+5. L05_Python_List, Tuple, Dictionary
+6. L06_Python_Condition, Loops and Control Statements, Error
+7. L07_Python_input & output
+8. L08_Python_function
+9. L09_Python_Object & Class
+10. L10_Python_Module & Packages
+
+출처:[이수안컴퓨터](https://www.youtube.com/playlist?list=PL7ZVZgsnLwEEdhCYInwxRpj1Rc4EGmCUc)
+
+# Python_Algorithm
+
+Not just to solve Algorithm problem,<br>
+to code **Pythonic** code.
 
 
 ## Algorithm 정리 : 매일 매일 관련 내용을 정리 하고 있습니다. 
@@ -65,18 +93,6 @@ Namespaces are one honking great idea -- let's do more of those!
 * 148- 187 [프로그래머스 문제](https://programmers.co.kr/learn/challenges) Level 2
 
 
-# Python_Basic_L
-1. 자료형_정리 : 자료형과 관련 된 내용을 정리
-1. L01_Google_Colab,\_Jupyter_Notebook,\_Markdown
-2. L02_Python_Basic
-3. L03_Python_Variables, Dtypes, Operators
-4. L04_Python_String
-5. L05_Python_List, Tuple, Dictionary
-6. L06_Python_Condition, Loops and Control Statements, Error
-7. L07_Python_input & output
-8. L08_Python_function
-9. L09_Python_Object & Class
-10. L10_Python_Module & Packages
 
 ### 출처
 * [파이썬 3 바이블, 이강성](http://book.interpark.com/product/BookDisplay.do?_method=detail&sc.prdNo=213143577&gclid=Cj0KCQjw5uWGBhCTARIsAL70sLLmqW-p1uMvmIx_3Xt9itNXFgdbn2qxLMQXxnmrbpXpDVRWKcRZBK4aAvy4EALw_wcB)
