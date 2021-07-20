@@ -67,7 +67,17 @@ Not just to solve Algorithm problem,<br>
 to code **Pythonic** code.
 
 
-## Algorithm 정리 : 매일 매일 관련 내용을 정리 하고 있습니다. 
+## Python-and-Algorithms-and-Data-Structures
+
+
+
+7. 
+
+출처:[파이썬 자료구조와 알고리즘, 미아 스타인](https://github.com/AstinCHOI/Python-and-Algorithms-and-Data-Structures)
+
+
+## Everyday_Algo_Exercise
+매일 매일 알고리즘 문제를 한개씩 풀고 공부하여 관련 내용을 정리 하고 있습니다. 
 
 1. 001_print_format
 2. 002_input()
@@ -97,11 +107,11 @@ to code **Pythonic** code.
 ### 출처
 * [파이썬 3 바이블, 이강성](http://book.interpark.com/product/BookDisplay.do?_method=detail&sc.prdNo=213143577&gclid=Cj0KCQjw5uWGBhCTARIsAL70sLLmqW-p1uMvmIx_3Xt9itNXFgdbn2qxLMQXxnmrbpXpDVRWKcRZBK4aAvy4EALw_wcB)
 * [이수안컴퓨터](https://www.youtube.com/playlist?list=PL7ZVZgsnLwEEdhCYInwxRpj1Rc4EGmCUc)
+* [파이썬 자료구조와 알고리즘, 미아 스타인](https://github.com/AstinCHOI/Python-and-Algorithms-and-Data-Structures)
 
 
 
-
-# Colab, Jupyter, Markdown
+# Python_Ecosystem_for_MachineLearning(PythonEco_ML)
 Colab, Jupyter, Markdown 의 팁을 모아 놓은 곳입니다. 
 
 1. 001_Google Colab .ipynb
