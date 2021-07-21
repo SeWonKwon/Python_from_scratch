@@ -67,6 +67,19 @@ Not just to solve Algorithm problem,<br>
 to code **Pythonic** code.
 
 
+1. Arrays
+2. Stack
+3. Queue
+4. LinkedList
+5. Dynamic Programming
+6. BackTracking
+7. HashMap
+8. Tree
+9. Greedy
+10. String
+11. Math,Bit
+
+
 ## Python-and-Algorithms-and-Data-Structures
 
 
