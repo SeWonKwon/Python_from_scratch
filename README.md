@@ -1,5 +1,5 @@
 # Python_from_scratch
-For myself and sharing , to study and master Python^_^V
+For myself and sharing , to study and master Python
 
 
 파이썬은 파이썬스럽게 라는 말을 이해하는데 많은 시간이 걸렸고, 오늘도 매일매일 느끼고 있습니다. <br>
