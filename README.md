@@ -61,6 +61,7 @@ Namespaces are one honking great idea -- let's do more of those!
 
 출처:[이수안컴퓨터](https://www.youtube.com/playlist?list=PL7ZVZgsnLwEEdhCYInwxRpj1Rc4EGmCUc)
 
+
 # Python_Algorithm
 
 Not just to solve Algorithm problem,<br>
@@ -78,6 +79,7 @@ to code **Pythonic** code.
 9. Greedy
 10. String
 11. Math,Bit
+
 
 
 ## Python-and-Algorithms-and-Data-Structures
