@@ -85,7 +85,8 @@ to code **Pythonic** code.
 ## Python-and-Algorithms-and-Data-Structures
 
 
-
+1. L01_
+2. L02_
 7. L07_Abstract Data Type
 8. L08_Asymptotic Analysis
 9. L09_Sorting
@@ -111,7 +112,7 @@ to code **Pythonic** code.
 11. 011_약수, 배수, 소수
 
 
-## 알고리즘 연습장 : '가랑비에 옷 젖는다' 하루에 한문제!
+## 알고리즘 연습장 :  '가랑비에 옷 젖는다' 하루에 한문제!
 
 - [알고리즘문제리스트](https://docs.google.com/spreadsheets/d/1UB9dwL_Q6bCnn__ZsM_aufcvay4HXQ4oZSVXTof78oo/edit?usp=sharing) : 업데이트 중  🕣
 - 
