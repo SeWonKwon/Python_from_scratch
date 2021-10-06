@@ -85,8 +85,12 @@ to code **Pythonic** code.
 ## Python-and-Algorithms-and-Data-Structures
 
 
-1. L01_
-2. L02_
+1. L01_Numbers
+2. L02_Sequence type
+3. L03_Collections
+4. L04_Module & Structure
+5. L05_Object oriented programming
+6. L06_
 7. L07_Abstract Data Type
 8. L08_Asymptotic Analysis
 9. L09_Sorting
